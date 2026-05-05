@@ -33,7 +33,7 @@ for (let i = 0; i < len; i++) {
     </header> 
 </body>
 ```
-![Billede af Albert Einstein]("img/einstein.png")
+![Billede af Albert Einstein](einstein.jpg)
 
 Her ses et billede af Albert Einstein i 1932
 
